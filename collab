@@ -21,7 +21,7 @@ int cantidadLibros;
   int precioUnitario[cantidadLibros];
   int i=0;
   float ganancia[cantidadLibros];
-  char str;
+  
 
    printf("\n Ingrese la cantidad de libros: ");
   scanf(" %d", &cantidadLibros);
